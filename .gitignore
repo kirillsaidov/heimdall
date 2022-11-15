@@ -1,4 +1,5 @@
 bin/
 lib/
 __internal/
+.DS_Store
 
