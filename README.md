@@ -1,7 +1,7 @@
 # Heimdall
 Home Surveillance System using Computer Vision technologies. 
 
-# Table of Contents
+## Table of Contents
 //...
 
 ## License
