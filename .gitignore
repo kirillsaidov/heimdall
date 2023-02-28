@@ -2,4 +2,7 @@ bin/
 lib/
 __internal/
 .DS_Store
+__pycache__
+venv
+
 
